@@ -1,3 +1,6 @@
+
+修复支持 Python 3.7
+
 ## Asynchronous HTTP proxy with tunnelling support
 
 Built using Tornado (tested with version 2.2), supports HTTP GET, POST and
